@@ -527,11 +527,11 @@
           "_cid": "rVs1JRXiBo",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
+          "_anchor": "menu1-l",
           "_protectedParams": [],
           "_global": true,
           "_once": "menu",
-          "_params": {},
-          "_anchor": "menu1-l"
+          "_params": {}
         },
         {
           "alias": false,
@@ -563,11 +563,11 @@
           "_isUserblock": true,
           "_sourceTheme": "digitalm4",
           "_cid": "rVs1NQEant",
+          "_anchor": "footer02-m",
           "_protectedParams": [],
           "_global": true,
           "_once": "footers",
-          "_params": {},
-          "_anchor": "footer02-m"
+          "_params": {}
         }
       ]
     },
@@ -1122,12 +1122,12 @@
           "_isUserblock": true,
           "_sourceTheme": "digitalm4",
           "_cid": "rVs1KGgY6Y",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_PHPplaceholders": [],
-          "_JSplaceholders": []
+          "_params": {}
         },
         {
           "alias": "mobirise4-blocks/components",
